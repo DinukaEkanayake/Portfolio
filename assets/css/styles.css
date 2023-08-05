@@ -107,6 +107,11 @@ nav ul li {
   border-radius: 50%;
 }
 
+.buttons{
+  display: flex;
+  margin-left: 40%;
+}
+
 .hero-section .button button{
   margin-top: 20px;
   padding: 10px;
@@ -114,10 +119,9 @@ nav ul li {
   border-radius: 5px;
   border: none;
   color: #fcfcfc;
-  align-items: center;
-  margin-left: 45%;
   font-weight: bold;
   cursor: pointer;
+  margin-right: 80px;
 }
 
 .bio {
