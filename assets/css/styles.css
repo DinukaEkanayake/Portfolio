@@ -175,7 +175,7 @@ nav ul li {
 
 .project-pic {
   width: 65%;
-  height: 60%;
+  height: 50%;
 }
 
 .projects-container {
@@ -211,8 +211,10 @@ nav ul li {
   background-color: #fff;
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--primary-shadow);
-  padding: 20px;
+  padding: 10px;
   margin: 10px;
+  height: 350px;
+  
 }
 
 .contact {
